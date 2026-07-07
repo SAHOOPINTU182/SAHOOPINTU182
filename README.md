@@ -1,7 +1,7 @@
 ![logo](https://github.com/SAHOOPINTU182/SAHOOPINTU182/blob/main/Blue%20White%20Professional%20Geometry%20Digital%20Marketing%20SEEK%20Cover%20Image%20.jpg)
 <h1 align="center">Hi 👋, I'm Pintu Sahoo</h1>
 <h3 align="center">A passionate Wev Developer from India</h3>
-<img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahoopintu182&label=Profile%20views&color=0e75b6&style=flat" alt="sahoopintu182" /> </p>
 
