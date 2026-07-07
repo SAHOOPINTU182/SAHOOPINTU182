@@ -1,15 +1,15 @@
 ![logo](https://github.com/SAHOOPINTU182/SAHOOPINTU182/blob/main/Blue%20White%20Professional%20Geometry%20Digital%20Marketing%20SEEK%20Cover%20Image%20.jpg)
 <h1 align="center">Hi 👋, I'm Pintu Sahoo</h1>
 <h3 align="center">A passionate Wev Developer from India</h3>
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahoopintu182&label=Profile%20views&color=0e75b6&style=flat" alt="sahoopintu182" /> </p>
 
-- 🌱 I’m currently learning **🌱 Full Stack Web Development (MERN), JavaScript, React.js, Node.js, Express.js, MongoDB, Data Analytics (Excel, SQL, Power BI, Python), Git & GitHub**
+- 🌱 I’m currently learning **🌱 Full Stack Web Development (MERN), JavaScript <br> 📄Data Analytics (Excel, SQL, Power BI, Python)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SAHOOPINTU182](https://github.com/SAHOOPINTU182)
 
-- 💬 Ask me about **Java, MERN Stack, Data Analytics, SQL, Git, GitHub, Problem Solving**
+- 💬 Ask me about **Java, MERN Stack, Data Analytics, SQL, Problem Solving**
 
 - 📫 How to reach me **pintusahoo982772@gmail.com**
 
