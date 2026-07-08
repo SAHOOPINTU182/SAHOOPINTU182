@@ -18,7 +18,9 @@
 
 
 ### 🚀 Currently Working On
+
 <p> --------------------------------------------------------------------------- </p>
+
 - 🌐 Building full-stack web applications using the MERN Stack
 - 📊 Learning Data Analytics with Excel, SQL, Python, Power BI, and Tableau
 - 🤖 Exploring AI integration in web applications
@@ -26,6 +28,8 @@
 
 
 
+<br>
+<br>
 <br>
 
 <table>
