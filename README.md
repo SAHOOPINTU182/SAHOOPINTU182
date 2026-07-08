@@ -13,14 +13,12 @@
 ## 👋ABOUT ME 
 <br>
 <p> ------------------------------------------------------------------------- </p>
-<p>Hi, I'm **Pintu Sahoo**, an MCA student and I'm currently focused on  <br> strengthening my skills in **MERN Stack Development**, **Data Analytics**, and   <br> while continuously learning new technologies and building practical projects.</p>
+<p>Hi, I'm **Pintu Sahoo**, an MCA student and I'm currently focused on  <br> strengthening my skills in **MERN Stack Development**, **Data Analytics**, <br> and    while continuously learning new technologies and building <br> practical projects.</p>
 
 
 
 ### 🚀 Currently Working On
-<br>
 <p> --------------------------------------------------------------------------- </p>
-
 - 🌐 Building full-stack web applications using the MERN Stack
 - 📊 Learning Data Analytics with Excel, SQL, Python, Power BI, and Tableau
 - 🤖 Exploring AI integration in web applications
