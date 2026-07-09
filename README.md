@@ -87,12 +87,13 @@
 </div>
 <br>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahoopintu182&show_icons=true&locale=en&layout=compact" alt="sahoopintu182" /></p>
 
-<div align="center">
-<h3> 📊 GitHub Stats </h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahoopintu182&show_icons=true&locale=en" alt="sahoopintu182" /></p>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Godbankai&theme=tokyonight&hide_border=true&background=00000000&ring=B983FF&fire=B983FF&currStreakLabel=B983FF"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahoopintu182&" alt="sahoopintu182" /></p>
+
+
 <br>
 
 <div align="center">
