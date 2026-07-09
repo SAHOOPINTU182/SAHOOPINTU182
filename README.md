@@ -1,5 +1,5 @@
+![logo](https://github.com/SAHOOPINTU182/SAHOOPINTU182/blob/main/boom.jpg)
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Pintu%20Sahoo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=B983FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Cyber+Security+Learner;Robotics+%26+IIOT+Explorer"/>
 <sub><br>🎓 Student of Lovely Professional University &nbsp;•&nbsp; 👁️ <img src="https://komarev.com/ghpvc/?username=Godbankai&style=flat&color=302b63" height="16" valign="middle"/></sub>
 
